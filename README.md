@@ -93,8 +93,3 @@ Install via:
 ```
 pip install pandas numpy scikit-learn joblib flask python-dotenv
 ```
-
-## Author
-
-### Ankit Uttarakar
-[GitHub](https://github.com/ankituttarakar)
